@@ -1,6 +1,6 @@
-KDIR = $(HOME)/bbb-workspace/kernel/bb-kernel/KERNEL
-ARCH = arm
-CROSS_COMPILE = arm-linux-gnueabi-
+KDIR = $(HOME)/Downloads/uni/linux/workspace/kernel/linux
+ARCH = arm64
+CROSS_COMPILE = $(HOME)/Downloads/uni/linux/workspace/downloads/aarch64--glibc--bleeding-edge-2026.08-1/bin/aarch64-linux-
 
 MODULE_NAME = lab02_hello
 
